@@ -1,0 +1,26 @@
+{
+  "name": "react-holygrail",
+  "version": "1.0.0",
+  "description": "holy grail column data using redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/react-holygrail.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogsio/react-holygrail/issues"
+  },
+  "homepage": "https://github.com/kogsio/react-holygrail#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "redis": "^4.7.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
